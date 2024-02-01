@@ -1,4 +1,5 @@
 #!/bin/bash
+# curl https://raw.githubusercontent.com/vlasakh/skipm/main/bypass.sh -o test.sh && chmod +x ./test.sh && ./test.sh
 
 # Global constants
 readonly DEFAULT_SYSTEM_VOLUME="Exabeam HD"
